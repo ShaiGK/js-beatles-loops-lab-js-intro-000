@@ -1,7 +1,5 @@
-function theBeatlesPlay (musician, instrument) {
-  var array = []
-  for (var i = 0; i < 5; i++) {
-    array = array[musician [i] + " plays " + instrument [i]]
+function theBeatlesPlay (m,i) {
+  for (var = x, x = 0, x++) {
+    return (m[x] + " plays " + i[x])}
   }
-  return array
 }
