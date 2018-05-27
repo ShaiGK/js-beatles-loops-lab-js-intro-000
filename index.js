@@ -1,5 +1,5 @@
-function theBeatlesPlay (people,things) {
-  for (var i = 0; i > 5; i++) {
+function theBeatlesPlay (musicians,instruments) {
+  for (var i = 0; i < musicians.length; i++) {
     return (people[i] + " plays " + things[i])
   }
 }
